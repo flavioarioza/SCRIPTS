@@ -1,5 +1,5 @@
 
-MsgBox "You entered:" & vbCrLf & TextEntry("Enter Some Text:", "Multiline Test")
+MsgBox "You entered:" & vbCrLf & TextEntry("Disserte sobre sua opção sexual:", "")
 
 
 
