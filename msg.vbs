@@ -1,0 +1,1 @@
+WScript.echo("Se Fode ae!")
